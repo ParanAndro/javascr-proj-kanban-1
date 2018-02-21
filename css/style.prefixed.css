@@ -12,8 +12,7 @@ body {
         justify-content: space-around; }
   body .column {
     padding: 5px 30px;
-    margin-top: 10px;
-    min-height: 300px; }
+    margin-top: 10px; }
   body button, body p.card-description {
     border: 1px solid;
     border-radius: 5px;
@@ -34,7 +33,5 @@ body {
     border-color: #FF7F00;
     width: 100px;
     overflow: hidden; }
-  body column-card-list {
-    min-height: 5px; }
 
 /*# sourceMappingURL=style.prefixed.css.map */
