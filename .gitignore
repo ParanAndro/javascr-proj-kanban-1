@@ -2,6 +2,8 @@
 .css
 style.css.map
 style.css
+style.prefixed.css
+style.prefixed.css.map
 # Logs
 logs
 *.log

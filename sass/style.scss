@@ -13,6 +13,7 @@ background-color: #C0C0C0;
 	.column {
 		padding: 5px 30px;
 		margin-top: 10px;
+		min-height: 300px;
 	}
 
 	button, p.card-description {
@@ -40,5 +41,8 @@ background-color: #C0C0C0;
 		border-color: #FF7F00;
 		width: 100px;
 		overflow: hidden;
+	}
+	column-card-list {
+		min-height: 5px;
 	}
 }
